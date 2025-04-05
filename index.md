@@ -1,16 +1,18 @@
 ---
-layout: home
-title: "Hari Krishna Vydana"
-author_profile: true
-permalink: /
+layout: default
+title: "Welcome to My Profile"
 ---
 
-Welcome! I’m Hari Krishna Vydana — a researcher in Conversational AI, Speech Recognition, and LLMs based in Zurich.
+# Hi, I'm Hari Krishna Vydana!
 
-I work on building real-world AI systems, from research to deployment, including:
-- Autonomous Voice Assistants
-- Spoken Language Assessment
-- Speech Translation
-- On-Device ASR and NLP
+Welcome to my GitHub profile page. Here, you'll find details about my work, skills, and projects.
 
-Feel free to explore my work, publications, and CV.
+- I am a passionate [Software Developer](https://www.linkedin.com/in/your-profile).
+- I specialize in [Web Development](https://github.com/harikrishna-vydana).
+- Check out my projects and feel free to get in touch!
+
+## About Me
+- I enjoy building web applications using modern technologies like React, Node.js, and Python.
+- My main interests are in **open-source contributions** and **AI research**.
+
+---
