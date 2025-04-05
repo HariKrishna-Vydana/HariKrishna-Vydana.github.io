@@ -7,7 +7,7 @@ title: "Welcome to My Profile"
 
 Welcome to my GitHub profile page. Here, you'll find details about my work, skills, and projects.
 
-- I am a passionate [Software Developer](https://www.linkedin.com/in/your-profile).
+- I am a passionate [Software Developer](https://www.linkedin.com/in/hari-krishna-vydana-0b014b87).
 - I specialize in [Web Development](https://github.com/harikrishna-vydana).
 - Check out my projects and feel free to get in touch!
 
