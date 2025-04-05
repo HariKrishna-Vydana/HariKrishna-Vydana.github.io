@@ -1,17 +1,23 @@
 ---
-title: "About"
+layout: page
+title: "About Me"
 permalink: /about/
-layout: single
-author_profile: true
 ---
 
-I’m Hari Krishna Vydana, a Conversational AI researcher and speech tech enthusiast. Currently based in Zurich, Switzerland, I lead Voice AI at Telepathy AI Labs.
+# About Me
 
-My work focuses on:
-- Automatic Speech Recognition (ASR)
-- Conversational AI
-- Large Language Models (LLMs)
-- Spoken Language Assessment
-- Speech-to-Speech Translation
+I am Hari Krishna Vydana, a passionate developer with a focus on **Web Development** and **AI**. I am currently working on building scalable web applications and contributing to various open-source projects.
 
-[Download my CV](../assets/cv/Hari_Krishna_CV.pdf)
+## Skills
+
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
+- **AI & ML**: Python, TensorFlow, Keras, Scikit-learn
+- **Tools**: Git, Docker, Kubernetes, VS Code, Jupyter
+
+## Education
+
+- Bachelor's in Computer Science from XYZ University
+- Coursera Certified in Machine Learning by Andrew Ng
+
+Feel free to reach out for any collaboration!
+
