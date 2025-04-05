@@ -1,9 +1,7 @@
 title: Hari Krishna Vydana
-logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: false
-theme: jekyll-theme-minimal
-
+description: "A brief profile of Hari Krishna Vydana."
+url: "https://harikrishna-vydana.github.io"
+theme: minima
 
 social:
   - icon: fa-linkedin
@@ -12,3 +10,16 @@ social:
   - icon: fa-github
     icon_pack: fab
     link: https://github.com/HariKrishna-Vydana
+
+# Enable pagination (if you add blog posts)
+paginate: 5
+
+# Navigation menu
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "CV"
+      url: /cv/
