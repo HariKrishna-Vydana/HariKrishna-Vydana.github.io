@@ -1,5 +1,49 @@
-title: Hari Krishna Vydana
-logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: false
-theme: jekyll-theme-minimal
+title: "Hari Krishna Vydana"
+email: "harivydana@gmail.com"
+description: >-
+  Conversational AI | Speech Recognition | LLMs | Zurich, Switzerland
+
+baseurl: "" 
+url: "https://harivydana.github.io" 
+twitter_username: ""
+github_username: "harivydana"
+linkedin_username: "harivydana"
+google_scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+show_excerpts: true
+paginate: 5
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+author:
+  name: "Hari Krishna Vydana"
+  avatar: "/assets/images/headshot_circle.png"
+  bio: "Tech Lead | Conversational AI Researcher"
+  location: "Zurich, Switzerland"
+  email: "harivydana@gmail.com"
+  links:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=NiuFOHsAAAAJ&hl=en"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/hari-krishna-vydana-0b014b87/"
+    - label: "GitHub"
+      url: "https://github.com/HariKrishna-Vydana"
+
+# Include your CV or resume
+include:
+  - _pages
