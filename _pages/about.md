@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Hari Krishna Vydana, a passionate Conversational AI Researcher and Machine Learning enthusiast. Currently, I am serving as the Tech Lead – Voice AI at Telepathy AI Labs, where I work towords the development of Appointment.AI, an AI-powered system for seamless appointment scheduling systems. My expertise spans ASR, Dialog Management, Agentic AI, Speech-to-Speech Translation, and Multimodal LLMs, among other areas. 
+I am Hari Krishna Vydana, a passionate Conversational AI Researcher and Machine Learning enthusiast. Currently, I am  a Tech Lead for Voice AI at Telepathy AI Labs, where I work towords the development of Appointment.AI, an AI-powered system for seamless appointment scheduling systems. My expertise spans ASR, Dialog Management, Agentic AI, Speech-to-Speech Translation, and Multimodal LLMs, among other areas. 
 
 Prior to this job, I have worked at leading organizations like Huawei Technologies, Cerence, and University of Cambridge, where I have worked on various aspects of Conversational AI. My goal is to bridge cutting-edge research with impactful real-world applications that advance the future of conversational AI.
 
